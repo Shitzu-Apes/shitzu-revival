@@ -1,0 +1,34 @@
+{
+  "name": "Shitzu Revival #538",
+  "description": "A collection of 1,000 unique pieces, created by Ceaze, to celebrate the 100%  community-owned memecoin",
+  "image": "538.png",
+  "dna": "1cb16463aa0c754c229d9cafa27e3dd9dfd77c83",
+  "edition": 538,
+  "date": 1708775607584,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "Garden"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Base"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Aurora Swag"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Squeal"
+    },
+    {
+      "trait_type": "Headwears",
+      "value": "Funky Earring"
+    },
+    {
+      "trait_type": "Mouths",
+      "value": "Party Blower"
+    }
+  ]
+}

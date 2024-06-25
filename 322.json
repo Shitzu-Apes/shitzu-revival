@@ -1,0 +1,34 @@
+{
+  "name": "Shitzu Revival #322",
+  "description": "A collection of 1,000 unique pieces, created by Ceaze, to celebrate the 100%  community-owned memecoin",
+  "image": "322.png",
+  "dna": "24ef33c4d7b5fc6c7b3c4b4db0d70a811fffe0bd",
+  "edition": 322,
+  "date": 1708775591839,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "Pool"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Base"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tank Top"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Squeal"
+    },
+    {
+      "trait_type": "Headwears",
+      "value": "Afro"
+    },
+    {
+      "trait_type": "Mouths",
+      "value": "Plushy"
+    }
+  ]
+}
